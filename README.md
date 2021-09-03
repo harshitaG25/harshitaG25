@@ -1,4 +1,6 @@
-- 👋 Hi my name is Harshita and I am a Business Analytics graduate at Santa Clara University
+-👋 Hi my name is Harshita and I am a Business Analytics graduate at Santa Clara University
+
+
 -📚 I have acquired skills in Data Modelling, Visualisation, Marketing Analytics, Machine Learning, Natural Language Processing and Statistical Analysis by working on various projects.My keen interest in digging deeper into trends and patterns to help make better business decisions has propelled me to explore in detail, the dynamic field of big data analytics, data science and business intelligence.I enjoy learning new things and consistently demonstrate a can-do attitude with enthusiasm and zeal.
 
 -🛠 Skills:
